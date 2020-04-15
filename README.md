@@ -109,7 +109,7 @@ kaiken sen datan näyttämiseen, kuten asemien koordinaatit ja asemien suurimmat
 ## Asennus
 Manuaalinen asennus vaatii, että koneellesi on asennettu `npm`.
 
-Sivu on toimintavalmis kopioimalla `build`-kansion sisältö palvelimelle (HUOM. Sivu on rakennettu olettaen sen
+Sivu on toimintavalmis kopioimalla `build.zip`-arkiston sisältö palvelimelle (HUOM. Sivu on rakennettu olettaen sen
 sijaitsevan kansiossa `repo/app/`).
 
 ### Manuaalinen asennus:
