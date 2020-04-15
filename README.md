@@ -10,7 +10,7 @@ Kaikki lähdekoodit (myös reactin luomat) zipattuna: https://ssl-saario.xyz/rep
 
 Pelkät lähdekoodit löytyvät kansiosta `source/` (PHP- ja init.sql -tiedostot ovat juurikansiossa)
 
-Videoesittely: ...
+Videoesittely: https://youtu.be/c_83nBDgsXg
 
 
 ## Kuvaus
