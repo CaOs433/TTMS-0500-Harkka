@@ -6,7 +6,11 @@ TTMS-0500 Web-ohjelmointi<br />
 
 Toimiva sovellus löytyy täältä: https://ssl-saario.xyz/repo/app/
 
-Kaikki lähdekoodit zipattuna: https://ssl-saario.xyz/repo/source.zip
+Kaikki lähdekoodit (myös reactin luomat) zipattuna: https://ssl-saario.xyz/repo/all.zip
+
+Pelkät lähdekoodit löytyvät kansiosta `source/` (PHP- ja init.sql -tiedostot ovat juurikansiossa)
+
+Videoesittely: ...
 
 
 ## Kuvaus
