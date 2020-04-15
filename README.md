@@ -28,7 +28,7 @@ Ajankohdaksi datalle voidaan valita, joko livedata tai hakea tietokannasta tiett
 
 <strong>Kuva valmiista sivusta</strong>:
 
-![Komponentit](readme-images/valmisSivu.jpg)
+![valmis](readme-images/valmisSivu.png)
 
 
 ## Tietokanta
@@ -59,7 +59,7 @@ Tuli tehtyä useampi erilainen tietokanta, mutta, kun aika alkoi loppua, päädy
 ### Komponentit
 Komponenttirakenne on seuraavan kuvan mukainen
 
-![Komponentit](readme-images/component-struct.png)
+![Komponentit](readme-images/App.png)
 
 Pääkomponentti `<App />` sisältää seuraavat alakomponentit:
 #### Map:
