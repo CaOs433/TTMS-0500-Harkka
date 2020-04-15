@@ -1,0 +1,134 @@
+.main-container .data-container {
+    background-color: #ffffff99;
+    text-align: left;
+    float: left;
+    padding: 15px;
+    border-radius: 15px;
+    width: fit-content;/*65%;*/
+    height: fit-content;/*100%;/*800px;*/
+    position: sticky;
+    /*transform: translate(0%, -125%);*/
+}
+
+hr { margin: 16.0px 0.0px 16.0px 0.0px; border-color: #000000b3; }
+
+.main-container .data-container .chart-div {
+    background-color: #1a1a1acc;
+    padding: 2%;
+    border-radius: 15px;
+    width: 96%;
+    height: 380px;
+    color: crimson;
+
+}
+
+.main-container .data-container .slider {
+    -webkit-appearance: none; appearance: none;
+    width: 80%; height: 13px;
+    background: #fff0f0; outline: none;
+    opacity: 0.7; -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.main-container .data-container .slider:hover { opacity: 1; }
+
+.main-container .data-container .slider::-webkit-slider-thumb {
+    -webkit-appearance: none; appearance: none;
+    width: 25px; height: 25px;
+    background: #960a0a; cursor: pointer;
+}
+
+.main-container .data-container .slider::-moz-range-thumb {
+    width: 25px; height: 25px;
+    background: #960a0a; cursor: pointer;
+}
+
+
+
+.main-container .data-container .button-right {
+    display: inline-block;
+    border-radius: 2px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 12px;
+    padding: 4px;
+    width: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+  }
+  
+  .main-container .data-container .button-right span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .main-container .data-container .button-right span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -2px;
+    transition: 0.5s;
+  }
+  
+  .main-container .data-container .button-right:hover span {
+    padding-right: 14px;
+  }
+  
+  .main-container .data-container .button-right:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+
+  .main-container .data-container .button-left {
+    display: inline-block;
+    border-radius: 2px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 12px;
+    padding: 4px;
+    width: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+  }
+  
+  .main-container .data-container .button-left span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .main-container .data-container .button-left span:before {
+    content: '\00ab';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: -2px;
+    transition: 0.5s;
+  }
+  
+  .main-container .data-container .button-left:hover span {
+    padding-left: 14px;
+  }
+  
+  .main-container .data-container .button-left:hover span:before {
+    opacity: 1;
+    left: 0;
+  }
+
+  /*.data-container .timeframe-selector {
+    float: left;/*right;
+    text-align: right;* /
+  }*/
+

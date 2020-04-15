@@ -1,0 +1,103 @@
+{
+  "stations": [
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "OUJ",
+      "name": "Oulujärvi",
+      "cx": "73.15",
+      "cy": "105.81",
+      "activity": 0.41
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "MEK",
+      "name": "Mekrijärvi",
+      "cx": "109.55",
+      "cy": "141.52",
+      "activity": 0.36
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "RAN",
+      "name": "Ranua",
+      "cx": "65.79",
+      "cy": "81.95",
+      "activity": 0.42
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "PEL",
+      "name": "Pello",
+      "cx": "50.08",
+      "cy": "62.82",
+      "activity": 0.5
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "MUO",
+      "name": "Muonio",
+      "cx": "46.95",
+      "cy": "38.68",
+      "activity": 0.51
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "KIL",
+      "name": "Kilpisjärvi",
+      "cx": "28.62",
+      "cy": "18.56",
+      "activity": 0.58
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "KEV",
+      "name": "Kevo",
+      "cx": "72.66",
+      "cy": "5.37",
+      "activity": 0.58
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "IVA",
+      "name": "Ivalo",
+      "cx": "77.58",
+      "cy": "30.18",
+      "activity": 0.52
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "SOD",
+      "name": "Sodankylä",
+      "cx": "72.44",
+      "cy": "51.65",
+      "activity": 0.5
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "HAN",
+      "name": "Hankasalmi",
+      "cx": "67.97",
+      "cy": "150.91",
+      "activity": 0.35
+    },
+    {
+      "r": "2.0",
+      "class": "station",
+      "id": "NUR",
+      "name": "Nurmijärvi",
+      "cx": "51.48",
+      "cy": "187.93",
+      "activity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+body { 
+  background-color: #333/*powderblue*/; 
+  background-image: url("tausta2.jpg");
+  /*background-size: contain;
+  background-repeat: no-repeat;*/
+  background-size: 100% 100%;
+  /*margin: 10;*/
+  padding: 2%;
+}
+
+/*hr { margin: 16.0px 0.0px 16.0px 0.0px; border-color: #000000 }*/
+
+#container {
+    padding: 15px;
+    border-radius: 5px;
+    width: 80%;
+    
+    position: absolute;
+    /*top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);*/
+    
+    color: #eee;
+    background-color: #333;
+}
+
+a:link    { color:rgb(106, 106, 206); background-color:transparent; text-decoration:none; /*margin: 22.0px; font: 18.0px Helvetica*/ }
+a:visited { color:pink; background-color:transparent; text-decoration:none }
+a:hover   { color:rgb(226, 70, 70); background-color:transparent; text-decoration:underline }
+a:active  { color:yellow; background-color:transparent; text-decoration:underline }
+
+p.p1 { margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; line-height: 14.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px }
+
+
+
+
+.main-container {
+  background-color: none;/*rgba(200, 150, 100, 0.6);*/
+  text-align: left;
+  float: left;
+  padding: 2%;
+  border-radius: 15px;
+  width: 96%;
+}
